@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+p {
+    overflow: scroll;
+    text-align: center;
+    background-color: beige;
+    border: 5px solid black;
+}
+
+nav ul a{
+    display: inline-block;
+    text-align: center;
+    position: static;
+    margin: 0 140px;
+    padding: 0;
+    list-style-type: none;
+}
+
+nav {
+    border: solid red 1px;
+    background-color: orangered;
+    background-size: auto;
+    margin: auto;
+}
+
+h1, #Welcome, .About {
+    text-align: center;
+    background-color: red;
+    margin: 0;
+    color: khaki;
+    font-weight: bold;
+}
+
+.Bio {
+    text-align: center;
+    width: 50%;
+    display: block;
+    margin: auto;
+    max-height: 500px;
+    max-width: 250px;
+    border: 5px solid darkred;
+}
+
+h2 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.compatibility {
+    text-align: center;
+    width: 50%;
+    border-right: 1px solid black;
+}
+
+.Advanced {
+    margin-top: 0px;
+    padding-top: 0px;
+    text-align: center;
+}
+
+#flist {
+    background-image: url(https://community.thriveglobal.com/wp-content/uploads/2021/07/shutterstock_1476678935_1050x1050.jpg?w=1024);
+    min-height: 1050px;
+    min-width: 900px;
+    border: 1px solid black;
+    color: white;
+}
+
+
+.HTML {
+    text-align: center;
+    margin: 0 200px;
+}
+
+.CSS {
+    text-align: center;
+    margin: 0 160px;
+}
+
+
+.Future {
+    text-align: center;
+    margin: 0 200px;
+}
+
